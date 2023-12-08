@@ -1,0 +1,14 @@
+.container{
+    display: flex;
+}
+
+.menu{
+    flex: 0.6;
+    background-color: #182237;
+    padding: 15px;
+}
+
+.content{
+    flex: 4;
+    padding: 15px;
+}

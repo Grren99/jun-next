@@ -1,0 +1,52 @@
+.container{
+    display: flex;
+}
+
+.inputBox{
+    background-color: #0090f9;
+    padding: 10px 15px;
+    width: 100px;
+    border-radius: 5px;
+    
+}
+.input{
+    background-color: #0090f9;
+    border-radius: 5px;
+    border: #0090f9;
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+}
+
+.categoryContainer{
+    margin: 0 auto;
+}
+.category{
+    margin: 0px 20px;
+    font-size: 20px;
+    padding: 20px;
+    font-weight: bold;
+    color: #b7bac1;
+}
+.category:hover{
+    color: white;
+    background-color: #182237;
+}
+
+.rigthBtnContainer{
+    background-color: #37496e;
+    border-radius: 5px;
+}
+
+.rightBtn{
+    padding: 10px;
+    background-color: #37496e;
+    border: none;
+    font-size: 18px;
+    color: white;
+}
+
+.rightBtn:hover{
+    border : 1px solid white
+}
+
