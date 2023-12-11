@@ -15,7 +15,7 @@ export default function NavBar(){
         case "knowledge" :
         newTitle = "지식"
         break;
-        case "community " :
+        case "community" :
         newTitle = "커뮤니티"
         break;
         case "events" :
